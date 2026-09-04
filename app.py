@@ -5,5 +5,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Azure web app is working!"
+    return "LIVE AND DIRECT"
 
